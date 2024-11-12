@@ -2,9 +2,7 @@ import { React } from "react";
 import { useSelector } from "react-redux";
 
 import { DiCodeigniter } from "react-icons/di";
-import {
-  BsFillCheckCircleFill,
-} from "react-icons/bs";
+
 import "./DashBoard.css";
 import Card from "../Card/Card";
 const DashBoard = () => {
